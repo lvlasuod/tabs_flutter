@@ -1,6 +1,10 @@
 # tabs_flutter
 
 Working with Tabs in Flutter
+
+![Tabs_Flutter](https://github.com/lvlasuod/tabs_flutter/blob/master/photo_2018-12-16_16-56-27.jpg)
+![Tabs_Flutter](https://github.com/lvlasuod/tabs_flutter/blob/master/photo_2018-12-16_16-56-31.jpg)
+
 ## Getting Started
 
 This project is a starting point for using tabbs in a Flutter application.
