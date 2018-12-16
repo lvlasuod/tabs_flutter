@@ -1,10 +1,9 @@
 # tabs_flutter
 
-A new Flutter project.
-
+Working with Tabs in Flutter
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for using tabbs in a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
